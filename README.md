@@ -1,5 +1,6 @@
 # Ice Cream Landing Page
 ![GitHub actions settings](./src/images/favicon/logo-desktop@2x.png)
+
 The [Ice Cream](https://alekhandro24.github.io/icecream-project/) landing page is a visually appealing website that showcases the products and advantages of the Ice Cream company. It is designed to provide an engaging user experience and attract potential customers. The website consists of several sections, each serving a specific purpose.
 
 ## Header
